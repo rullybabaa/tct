@@ -1,6 +1,6 @@
 # ARSIEKTUR CLOUD COMPUTING
 
-+ ![setting](https://github.com/ayuwidyainggit/tct/blob/master/images/p3.png)
++ ![setting](https://github.com/rullybabaa/tct/blob/master/images/p3.png)
 Arsitektur cloud computing adalah kemampuan pemrosesan dari sistem, bukan tampilan desktop-nya. 
 dan semua pengguna nantinya akan mengakses komputasi yang disediakan oleh server cloud ini menggunakan jaringan internet 
 dari berbagai macam media, namun jenis hardware ataupun sistem operasi yang ada di belakang layar tetap tidak akan terlihat.
@@ -16,13 +16,13 @@ Untuk memulai, kita perlu aplikasi web Chrome Drive
 yang dipasang di Chrome
 #### Aktifkan mode offline di Google Drive
 Masuk ke akun Anda di Google Drive, drive.google.com . Klik ikon Pengaturan (roda) di sudut kanan atas layar dan pilih Pengaturan .
-+ ![setting](https://github.com/ayuwidyainggit/tct/blob/master/images/p3_1.png)
++ ![setting](https://github.com/rullybabaa/tct/blob/master/images/p3_1.png)
 Di jendela yang terbuka, periksa opsi Sinkronkan Google Documents ... di bagian berlabel Offline . File Anda akan mulai diunduh ke 
 komputer Anda - ini termasuk Dokumen, Spreadsheet, Slide, dan Gambar.
 
 #### Aktifkan Mode Offline di Google Docs
 Pergi ke Google Docs - docs.google.com - dan login. Klik ikon menu hamburger ke arah kiri atas layar dan pilih Pengaturan .
-+ ![setting_docs](https://github.com/ayuwidyainggit/tct/blob/master/images/p3_2.png)
++ ![setting_docs](https://github.com/rullybabaa/tct/blob/master/images/p3_2.png)
 Di bawah Sinkronisasi luring klik Aktifkan . Tab baru akan terbuka dengan instruksi untuk menginstal aplikasi Web Chrome jika diperlukan, 
 kemudian untuk mengonfirmasi Anda ingin mengaktifkan akses offline.
 
@@ -35,7 +35,7 @@ seperti biasa, tetapi yang tidak tersedia secara offline akan berwarna abu-abu.
 + ![settingdocs](https://github.com/ayuwidyainggit/tct/blob/master/images/p3_3.png)
 
 Klik dua kali untuk membuka file. Anda akan melihat ikon "Offline" abu-abu yang ditampilkan di samping nama file.
-+ ![settingdocs](https://github.com/ayuwidyainggit/tct/blob/master/images/p3_4.png)
++ ![settingdocs](https://github.com/rullybabaa/tct/blob/master/images/p3_4.png)
 Perubahan Anda disimpan secara otomatis saat Anda mengedit dokumen. Ketika Anda kembali online, mereka akan disinkronkan kembali ke akun Anda. File apa pun yang telah diedit 
 secara lokal tetapi belum disinkronkan akan ditampilkan dalam huruf tebal dalam daftar dokumen Anda.
 Anda juga dapat membuat dokumen baru saat bekerja offline. Ini akan diunggah ke akun Anda saat Anda online.
