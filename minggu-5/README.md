@@ -14,7 +14,7 @@ Cara menjalankan :
 2. httpd -k install
 3. httpd -k start
 
-![ergos](https://github.com/rullybabaa/tct/blob/master/minggu-05/images1/Capture.PNG)
+![ergos](https://github.com/rullybabaa/tct/blob/master/minggu-05/images/Capture.PNG)
 
 mengambil source code dari https://handsontable.com/examples?manual-resize&manual-move&conditional-formatting&context-menu&filters&dropdown-menu&headers
 
